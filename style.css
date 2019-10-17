@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.btn{
+	padding: 20px;
+	border: 0px;
+	margin: 3px;
+	background: black;
+	color: white;
+}
+
+.contenedor-flex{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#resultado{
+	width: 100%;
+}
